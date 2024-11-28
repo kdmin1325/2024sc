@@ -7,8 +7,8 @@
 ## 사용 기술
 
 - **프론트엔드**: Flutter, Dart  
-- **백엔드**: Flask, Python, Pandas  
-- **배포**: <img alt="Html" src ="http://www.w3.org/2000/svg?&style=for-the-badge&logo=AWS EB&white=벳지 글자 색"/>
+- **백엔드**: Flask, <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>, Pandas  
+- **배포**: <img alt="Html" src ="http://www.w3.org/2000/svg?&style=for-the-badge&logo=AWS EB&logoColor=white"/>
 - **기타**: GitHub, GPT  
 
 ---
