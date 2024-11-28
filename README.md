@@ -7,7 +7,7 @@
 ## 사용 기술
 
 - **프론트엔드**: <img alt="Python" src ="https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=http://www.w3.org/2000/svg&logoColor=white"/>, <img alt="Python" src ="https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=http://www.w3.org/2000/svg&logoColor=white"/>
-- **백엔드**: <img alt="Python" src ="https://img.shields.io/badge/flask-5468FF.svg?&style=for-the-badge&logo=http://www.w3.org/2000/svg&logoColor=white"/>, <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=http://www.w3.org/2000/svg&logoColor=white"/>, <img alt="Python" src ="https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=http://www.w3.org/2000/svg&logoColor=white"/> 
+- **백엔드**: <img alt="Python" src ="https://img.shields.io/badge/flask-000000.svg?&style=for-the-badge&logo=http://www.w3.org/2000/svg&logoColor=white"/>, <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=http://www.w3.org/2000/svg&logoColor=white"/>, <img alt="Python" src ="https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=http://www.w3.org/2000/svg&logoColor=white"/> 
 - **배포**: <img alt="aws eb" src ="https://img.shields.io/badge/AWS%20EB-FF9900.svg?&style=for-the-badge&logo=AWS%20EB&logoColor=white"/>
 - **기타**: GitHub, GPT
 
@@ -15,9 +15,9 @@
 
 ## 사용 가능 플랫폼
 
-- **웹**: Web (크로스 플랫폼 지원)
+- **웹**: Web
 - **모바일**: Android, iOS  
-- **데스크톱**: macOS, Windows  
+- **데스크톱**: macOS, Windows
 
 ---
 
