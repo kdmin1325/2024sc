@@ -7,10 +7,9 @@
 ## 사용 기술
 
 - **프론트엔드**: Flutter, Dart  
-- **백엔드**: Flask, <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>, Pandas  
-- **배포**: <img alt="Python" src ="https://img.shields.io/badge/AWS%20EB-FF9900.svg?&style=for-the-badge&logo=AWS%20EB&logoColor=white"/>
+- **백엔드**: Flask, <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=http://www.w3.org/2000/svg&logoColor=white"/>, Pandas  
+- **배포**: <img alt="aws eb" src ="https://img.shields.io/badge/AWS%20EB-FF9900.svg?&style=for-the-badge&logo=AWS%20EB&logoColor=white"/>
 - **기타**: GitHub, GPT
-
 
 ---
 
