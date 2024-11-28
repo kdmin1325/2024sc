@@ -44,5 +44,5 @@
 
 ## SW 아키텍처
 
-![Software Architecture Diagram](./images/software_architecture.png)
+![Software Architecture Diagram](1.png)
 
