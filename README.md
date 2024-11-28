@@ -1,1 +1,1 @@
-# DGU_portal_flutter
+# 기업 정보 확인 서비스
